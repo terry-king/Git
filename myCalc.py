@@ -1,5 +1,5 @@
-# A simple calculator in Python
-# University of the People 
+#A simple calculator in Python
+#For a command-line interface 
 
 import sys 
 #First Number Input
